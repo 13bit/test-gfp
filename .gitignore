@@ -1,0 +1,10 @@
+*.swp
+
+.serverless
+GitProFlow-test
+
+node_modules
+.idea
+*.log
+*.log.json
+/config/local.js
