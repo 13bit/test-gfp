@@ -2,4 +2,4 @@
 ## updates
 #us-sd -o ss
 
-#66 updates nea ssscsss shss
+#66 updates nea ssscsss shsss
