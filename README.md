@@ -1,5 +1,3 @@
-#53 reviews
-#175 - update
 
 #us-sd -o ss
 
