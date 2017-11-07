@@ -58,3 +58,4 @@ jobs:
                    }" \
                   "${GITFLOWPRO_DEPLOYMENT_WEBHOOK}" ;
             fi
+
