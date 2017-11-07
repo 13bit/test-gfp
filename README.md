@@ -1,8 +1,7 @@
 #53 reviews
 #175 - update
 
-#us-sd -o ss
-
+#us-sd -o
 #66 updates nea ssscssssss f
 aaa shos boom opa
 sdasdsadasdasd
