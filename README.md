@@ -2,5 +2,5 @@
 
 #187 - upd
 
-#188 - updat
+#188 - update
 
